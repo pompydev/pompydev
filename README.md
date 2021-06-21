@@ -36,7 +36,7 @@ I am a Korean High School student who wants to be a full time developer.<br />
 ![express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
 ![firebase](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-red?style=for-the-badge&logo=amazonaws&logoColor=white)
-![typescript](https://img.shields.io/badge/typescrit-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
 ![bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
 ![git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
