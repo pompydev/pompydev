@@ -46,6 +46,8 @@ I am a Korean High School student who wants to be a full time developer.<br />
 ![visual studio](https://img.shields.io/badge/visual_studio-blue?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![visual studio code](https://img.shields.io/badge/visual_studio_code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white)
+![qt](https://img.shields.io/badge/qt-brightgreen?style=for-the-badge&logo=qt&logoColor=white)
+![electron](https://img.shields.io/badge/electron-purple?style=for-the-badge&logo=electron&logoColor=white)
 
 ## Contacts
 
