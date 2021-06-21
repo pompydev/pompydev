@@ -17,7 +17,7 @@
 </p>
 
 I am a Korean High School student who wants do be a full time developer.<br />
-Also, I'm a proud linux user. (arch linux btw)
+Also, I'm a proud Linux user. (Arch Linux btw)
 
 # Skills
 
