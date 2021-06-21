@@ -16,7 +16,7 @@
 	</a>
 </p>
 
-I am a Korean High School student who want do be a full time developer.<br />
+I am a Korean High School student who want to be a full time developer.<br />
 
 # Skills
 
