@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hello! I am develo<b>pomp</b>!
+  👋 Hello! I am developomp!
 </h1>
 
 <p align="center">
@@ -16,8 +16,7 @@
 	</a>
 </p>
 
-I am a Korean High School student who wants do be a full time developer.<br />
-Also, I'm a proud Linux user. (Arch Linux btw)
+I am a Korean High School student who want do be a full time developer.<br />
 
 # Skills
 
