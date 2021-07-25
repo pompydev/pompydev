@@ -10,10 +10,12 @@
 	<br />
 	I am a Korean High School graduate who wants to be a full time developer.<br />
     <br />
-    <br />
-	<h2 align="center"><b>Github profile</b></h2>
+</p>
+
+<h2  align="center"><b>Github statistics</b></h2>
+<p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-    	<img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=developomp&show_icons=true&count_private=true&theme=dark" height="200" />
+		<img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=developomp&show_icons=true&count_private=true&theme=dark" height="200"/>
 	</a>
 </p>
 
