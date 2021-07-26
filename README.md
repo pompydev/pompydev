@@ -29,7 +29,6 @@
 ![C#](https://img.shields.io/badge/C%23-350064?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![go](https://img.shields.io/badge/go-00A8CE?style=for-the-badge&logo=go&logoColor=white)
-![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **platforms**
 
@@ -57,12 +56,6 @@
 ![gtk](https://img.shields.io/badge/gtk-6195C6?style=for-the-badge)
 ![winform](https://img.shields.io/badge/winform-004B7C?style=for-the-badge)
 
-### **database**
-
-![firebase firestore](https://img.shields.io/badge/firestore-FAC207?style=for-the-badge&logo=firebase&logoColor=white)
-![sql](https://img.shields.io/badge/sql-008FD2?style=for-the-badge)
-![mongodb](https://img.shields.io/badge/mongodb-00C33C?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ### **game development**
 
 ![unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white)
@@ -73,6 +66,7 @@
 ![node](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-FE0022?style=for-the-badge&logo=git&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Contacts
 
