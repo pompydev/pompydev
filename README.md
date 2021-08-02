@@ -37,14 +37,6 @@
 ![firebase](https://img.shields.io/badge/firebase-FAC207?style=for-the-badge&logo=firebase&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-FF8300?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### **IDE**
-
-![pycharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white)
-![intellij](https://img.shields.io/badge/intellij_idea-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![android studio](https://img.shields.io/badge/android_studio-53A843?style=for-the-badge&logo=android-studio&logoColor=white)
-![visual studio](https://img.shields.io/badge/visual_studio-73008D?style=for-the-badge&logo=visual-studio&logoColor=white)
-![visual studio code](https://img.shields.io/badge/visual_studio_code-0090CD?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ### **gui/front end**
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,10 +55,31 @@
 
 ### **misc**
 
-![node](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white)
+![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-FE0022?style=for-the-badge&logo=git&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Proud Projects
+
+### [developomp-site](https://github.com/developomp/developomp-site)
+
+my website (https://developomp.com)
+
+![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white)
+![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-D93491?style=for-the-badge&logo=sass&logoColor=white)
+
+### [llama-bot](https://github.com/developomp/llama-bot)
+
+A discord bot
+
+![python](https://img.shields.io/badge/python-1171AE?style=for-the-badge&logo=python&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-FAC207?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## Contacts
 
