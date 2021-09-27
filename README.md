@@ -97,7 +97,7 @@
 
 ## Contacts
 
-| Type                                                                                                                            | Details                              |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+|                                                                                                                            Type | Details                              |
+| ------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------- |
 | [![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) | developomp#0001 (501277805540147220) |
-| [![gmail](https://img.shields.io/badge/gmail-FF0027?style=for-the-badge&logo=gmail&logoColor=white)](https://discord.com)       | developomp@gmail.com                 |
+|   [![gmail](https://img.shields.io/badge/gmail-FF0027?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com) | developomp@gmail.com                 |
