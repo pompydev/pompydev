@@ -62,7 +62,7 @@
 
 ## Proud Projects
 
-### [My blog website](https://github.com/developomp/developomp-site)
+### [My blog](https://github.com/developomp/developomp-site)
 
 ![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white)
 ![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
