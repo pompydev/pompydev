@@ -48,9 +48,6 @@ jobs:
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/lines
           plugin_lines: yes
 
-          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/stargazers
-          plugin_stargazers: yes
-
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/achievements
           plugin_achievements: yes
           plugin_achievements_threshold: B
