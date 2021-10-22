@@ -19,6 +19,13 @@
 	</a>
 </p>
 
+<h2  align="center"><b>Github Metrics</b></h2>
+<p align="center">
+	<a href="https://github.com/lowlighter/metrics">
+		<img alt="Github metrics" src="/github-metrics.svg"/>
+	</a>
+</p>
+
 ## Skills
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
