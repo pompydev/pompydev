@@ -56,10 +56,6 @@ jobs:
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/traffic
           plugin_traffic: yes
 
-          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/notable
           plugin_notable: yes
           plugin_notable_filter: stars:>100
