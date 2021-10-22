@@ -28,7 +28,7 @@ jobs:
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/introduction
           plugin_introduction: yes
-          # plugin_introduction_title: no
+          plugin_introduction_title: no
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/habits
           plugin_habits: yes
