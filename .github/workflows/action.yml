@@ -17,7 +17,12 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/core
           config_timezone: Asia/Seoul
+
+          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/base
+          base: header, activity, community, repositories, metadata
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/isocalendar
           plugin_isocalendar: yes
@@ -48,6 +53,9 @@ jobs:
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/lines
           plugin_lines: yes
 
+          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/traffic
+          plugin_traffic: yes
+
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/achievements
           plugin_achievements: yes
           plugin_achievements_threshold: B
@@ -56,12 +64,3 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars:>100
           plugin_notable_repositories: yes
-
-          base: activity, community, repositories, metadata
-          config_twemoji: yes
-          repositories: 500
-          plugin_traffic: yes
-          plugin_topics: yes
-          plugin_topics_sort: stars # Sort by most starred topics
-          plugin_topics_mode: mastered # Display icons instead of labels
-          plugin_topics_limit: 0 # Disable limitations
