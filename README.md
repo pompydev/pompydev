@@ -46,7 +46,7 @@
 #### Python
 
 ![python](https://img.shields.io/badge/python-1171AE?style=for-the-badge&logo=python&logoColor=white)
-![anaconda](https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=43B049)
+![anaconda](https://img.shields.io/badge/anaconda-43B049?style=for-the-badge&logo=anaconda&logoColor=white)
 
 - Familiar
 - Used in many projects
