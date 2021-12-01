@@ -41,7 +41,7 @@
 
 - Very familiar
 - Used in most projects
-- Familiar with javascript runtime internals
+- Familiar with the inner workings of different javascript runtimes
 
 #### Python
 
@@ -104,6 +104,8 @@
 
 ### [My blog](https://github.com/developomp/developomp-site)
 
+My blog.
+
 ![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=white)
@@ -113,6 +115,8 @@
 ![sass](https://img.shields.io/badge/Sass-D93491?style=for-the-badge&logo=sass&logoColor=white)
 
 ### [Mocha Downloader](https://github.com/Mocha-Downloader)
+
+Makes downloading easier on the internet.
 
 ![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white)
 ![electron](https://img.shields.io/badge/electron-292B37?style=for-the-badge&logo=electron&logoColor=78E5ED)
@@ -124,6 +128,8 @@
 
 ### [War Brokers Mods](https://github.com/War-Brokers-Mods)
 
+A mod for the browser game War Brokers.
+
 ![C#](https://img.shields.io/badge/C%23-350064?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -131,10 +137,14 @@
 
 ### [My setup](https://github.com/developomp/setup)
 
+My Arch Linux setup script.
+
 ![linux](https://img.shields.io/badge/linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=white)
 ![gnubash](https://img.shields.io/badge/bash-283037?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### [Llama Bot](https://github.com/llama-bot)
+
+A discord bot with a web frontend.
 
 ![firebase](https://img.shields.io/badge/firebase-FAC207?style=for-the-badge&logo=firebase&logoColor=white)
 ![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white)
@@ -143,6 +153,14 @@
 ![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=white)
+
+## Future projects
+
+### boy-lang
+
+My own programming language.
+
+![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Contacts
 
