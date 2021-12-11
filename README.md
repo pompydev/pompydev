@@ -12,16 +12,8 @@
     <br />
 </p>
 
-<h2  align="center"><b>Github statistics</b></h2>
+<h2  align="center"><b>Statistics</b></h2>
 
-<h3  align="center"><b>Overview</b></h3>
-<p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-		<img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=developomp&show_icons=true&count_private=true&theme=dark" height="200"/>
-	</a>
-</p>
-
-<h3  align="center"><b>Detailed</b></h3>
 <p align="center">
 	<a href="https://github.com/lowlighter/metrics">
 		<img alt="Github metrics" src="./github-metrics.svg"/>
