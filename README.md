@@ -24,7 +24,9 @@
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
-### **languages**
+### Major Languages
+
+These are the languages I'm most comfortable working with.
 
 #### Javascript
 
@@ -53,13 +55,15 @@
 - Used in some projects
 - C# internals is uncharted territory for me
 
-#### Java
+### Languages used at least once
+
+These are the languages I've used in any significant capacity (i.e. More complex than hello world)
 
 ![java](https://img.shields.io/badge/java-F24335?style=for-the-badge&logo=java&logoColor=white)
-
-- Somewhat Familiar
-- Used in couple of projects
-- Only have basic knowledge about java internals
+![go](https://img.shields.io/badge/go-6AD7E5?style=for-the-badge&logo=go&logoColor=white)
+![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-3F48CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-659AD2?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### **platforms**
 
@@ -153,6 +157,7 @@ A discord bot with a web frontend.
 My own programming language.
 
 ![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
+![llvm](https://img.shields.io/badge/llvm-black?style=for-the-badge&logo=llvm&logoColor=white)
 
 ## Contacts
 
