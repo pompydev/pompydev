@@ -32,6 +32,8 @@ These are the languages I'm most comfortable working with.
 
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=white)
+![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white)
+![deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 
 - Very familiar
 - Used in most projects
@@ -55,46 +57,49 @@ These are the languages I'm most comfortable working with.
 - Used in some projects
 - C# internals is uncharted territory for me
 
-### Languages used at least once
-
-These are the languages I've used in any significant capacity (i.e. More complex than hello world)
-
-![java](https://img.shields.io/badge/java-F24335?style=for-the-badge&logo=java&logoColor=white)
-![go](https://img.shields.io/badge/go-6AD7E5?style=for-the-badge&logo=go&logoColor=white)
-![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-3F48CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-659AD2?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### **platforms**
-
-![google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![firebase](https://img.shields.io/badge/firebase-FAC207?style=for-the-badge&logo=firebase&logoColor=white)
-![aws](https://img.shields.io/badge/aws-FF8300?style=for-the-badge&logo=amazonaws&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-550092?style=for-the-badge&logo=heroku&logoColor=white)
-![oracle cloud](https://img.shields.io/badge/oracle_cloud-C74634?style=for-the-badge&logo=oracle&logoColor=white)
-![crowdin](https://img.shields.io/badge/crowdin-006600?style=for-the-badge&logo=crowdin&logoColor=white)
-![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
-![gitlab](https://img.shields.io/badge/gtilab-30353E?style=for-the-badge&logo=gitlab)
-
 ### **gui/front end**
 
+![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-D93491?style=for-the-badge&logo=sass&logoColor=white)
-![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
+![winform](https://img.shields.io/badge/winform-004B7C?style=for-the-badge)
 ![qt](https://img.shields.io/badge/qt-00D74C?style=for-the-badge&logo=qt&logoColor=white)
 ![gtk](https://img.shields.io/badge/gtk-6195C6?style=for-the-badge)
-![winform](https://img.shields.io/badge/winform-004B7C?style=for-the-badge)
+
+### **cloud computing platforms**
+
+These are the cloud computing platforms I use/used arranged from most to least familiar
+
+![firebase](https://img.shields.io/badge/firebase-FAC207?style=for-the-badge&logo=firebase&logoColor=white)
+![google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![aws](https://img.shields.io/badge/aws-FF8300?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### **misc**
 
-![git](https://img.shields.io/badge/git-FE0022?style=for-the-badge&logo=git&logoColor=white)
+These are the language/framework/tools/etc. I've used at least once in any real capacity (i.e. more complex than hello world).
+
+#### Language
+
+![java](https://img.shields.io/badge/java-F24335?style=for-the-badge&logo=java&logoColor=white)
+![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
+![go](https://img.shields.io/badge/go-6AD7E5?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-3F48CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-659AD2?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+#### Game engine
+
+![unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+#### Cloud computing
+
+![heroku](https://img.shields.io/badge/Heroku-550092?style=for-the-badge&logo=heroku&logoColor=white)
+![oracle cloud](https://img.shields.io/badge/oracle_cloud-C74634?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### Linux
+
 ![linux](https://img.shields.io/badge/linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=white)
-![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white)
 ![gnubash](https://img.shields.io/badge/bash-283037?style=for-the-badge&logo=gnubash&logoColor=white)
-![yaml](https://img.shields.io/badge/yaml-black?style=for-the-badge)
-![json](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=white)
-![markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Proud Projects
 
@@ -102,6 +107,7 @@ These are the languages I've used in any significant capacity (i.e. More complex
 
 My blog.
 
+![firebase](https://img.shields.io/badge/firebase-FAC207?style=for-the-badge&logo=firebase&logoColor=white)
 ![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=white)
