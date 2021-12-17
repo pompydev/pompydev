@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://developomp.com">
-		<img src="https://img.shields.io/badge/my_blog-grey?style=for-the-badge" />
+		<img src="https://img.shields.io/badge/website-grey?style=for-the-badge" />
 	</a>
 	<a href="https://www.buymeacoffee.com/developomp">
 		<img src="https://img.shields.io/badge/buy_me_a_coffee-yellow?style=for-the-badge" />
@@ -164,10 +164,3 @@ My own programming language.
 
 ![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
 ![llvm](https://img.shields.io/badge/llvm-black?style=for-the-badge&logo=llvm&logoColor=white)
-
-## Contacts
-
-|                                                                                                                            Type | Details                              |
-| ------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------- |
-| [![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) | developomp#0001 (501277805540147220) |
-|   [![gmail](https://img.shields.io/badge/gmail-FF0027?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com) | developomp@gmail.com                 |
