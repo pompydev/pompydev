@@ -173,4 +173,4 @@ My own programming language.
 A conky-like system monitor.
 
 ![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
-![X.org](https://img.shields.io/badge/x.org-000000?style=for-the-badge&logo=xdotorg&logoColor=white)
+![gtk](https://img.shields.io/badge/gtk-6195C6?style=for-the-badge)
