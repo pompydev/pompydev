@@ -141,6 +141,7 @@ A mod for the browser game War Brokers.
 
 My Arch Linux setup script.
 
+![Arch Linux](https://img.shields.io/badge/arch_linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=white)
 ![gnubash](https://img.shields.io/badge/bash-283037?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -158,9 +159,18 @@ A discord bot with a web frontend.
 
 ## Future projects
 
+Projects I may or may not be able to finish.
+
 ### boy-lang
 
 My own programming language.
 
 ![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
 ![llvm](https://img.shields.io/badge/llvm-black?style=for-the-badge&logo=llvm&logoColor=white)
+
+### pomky
+
+A conky-like system monitor.
+
+![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
+![X.org](https://img.shields.io/badge/x.org-000000?style=for-the-badge&logo=xdotorg&logoColor=white)
