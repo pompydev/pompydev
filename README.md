@@ -35,27 +35,15 @@ These are the languages I'm most comfortable working with.
 ![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=white)
 ![deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 
-- Very familiar
-- Used in most projects
-- Familiar with the inner workings of different javascript runtimes
-
 #### Python
 
 ![python](https://img.shields.io/badge/python-1171AE?style=for-the-badge&logo=python&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-43B049?style=for-the-badge&logo=anaconda&logoColor=white)
 
-- Familiar
-- Used in many projects
-- Somewhat familiar with python internals
-
 #### C#
 
 ![C#](https://img.shields.io/badge/C%23-350064?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512AD5?style=for-the-badge&logo=dotnet&logoColor=white)
-
-- Familiar
-- Used in some projects
-- C# internals is uncharted territory for me
 
 ### **gui/front end**
 
@@ -145,6 +133,13 @@ My Arch Linux setup script.
 ![linux](https://img.shields.io/badge/linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=white)
 ![gnubash](https://img.shields.io/badge/bash-283037?style=for-the-badge&logo=gnubash&logoColor=white)
 
+### [pomky](https://github.com/developomp/pomky)
+
+A conky-like system monitor.
+
+![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
+![gtk](https://img.shields.io/badge/gtk-6195C6?style=for-the-badge)
+
 ### [Llama Bot](https://github.com/llama-bot)
 
 A discord bot with a web frontend.
@@ -167,10 +162,3 @@ My own programming language.
 
 ![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
 ![llvm](https://img.shields.io/badge/llvm-black?style=for-the-badge&logo=llvm&logoColor=white)
-
-### pomky
-
-A conky-like system monitor.
-
-![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
-![gtk](https://img.shields.io/badge/gtk-6195C6?style=for-the-badge)
