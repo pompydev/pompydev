@@ -38,11 +38,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage
 
-          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/notable
-          plugin_notable: yes
-          plugin_notable_filter: stars:>100
-          plugin_notable_repositories: yes
-
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/habits
           plugin_habits: yes
           plugin_habits_facts: no
