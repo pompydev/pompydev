@@ -31,10 +31,6 @@ jobs:
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/traffic
           plugin_traffic: yes
 
-          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/followup
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/languages
           plugin_languages: yes
           plugin_languages_limit: 0
