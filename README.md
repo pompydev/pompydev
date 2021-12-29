@@ -45,7 +45,7 @@ These are the languages I'm most comfortable working with.
 ![C#](https://img.shields.io/badge/C%23-350064?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512AD5?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### **gui/front end**
+### **GUI/front end**
 
 ![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,7 +55,7 @@ These are the languages I'm most comfortable working with.
 ![qt](https://img.shields.io/badge/qt-00D74C?style=for-the-badge&logo=qt&logoColor=white)
 ![gtk](https://img.shields.io/badge/gtk-6195C6?style=for-the-badge)
 
-### **cloud computing platforms**
+### **Cloud computing platforms**
 
 These are the cloud computing platforms I use/used arranged from most to least familiar
 
