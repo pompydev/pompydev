@@ -24,7 +24,7 @@
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
-### Major Languages
+### Languages
 
 These are the languages I'm most comfortable working with.
 
@@ -63,7 +63,7 @@ These are the cloud computing platforms I use/used arranged from most to least f
 ![google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-FF8300?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### **misc**
+### **Miscellaneous**
 
 These are the language/framework/tools/etc. I've used at least once in any real capacity (i.e. more complex than hello world).
 
@@ -83,11 +83,6 @@ These are the language/framework/tools/etc. I've used at least once in any real 
 
 ![heroku](https://img.shields.io/badge/Heroku-550092?style=for-the-badge&logo=heroku&logoColor=white)
 ![oracle cloud](https://img.shields.io/badge/oracle_cloud-C74634?style=for-the-badge&logo=oracle&logoColor=white)
-
-#### Linux
-
-![linux](https://img.shields.io/badge/linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=white)
-![gnubash](https://img.shields.io/badge/bash-283037?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## Proud Projects
 
