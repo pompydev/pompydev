@@ -24,7 +24,7 @@
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
-### Languages
+### Programming Languages
 
 These are the languages I'm most comfortable working with.
 
@@ -38,14 +38,17 @@ These are the languages I'm most comfortable working with.
 #### Python
 
 ![python](https://img.shields.io/badge/python-1171AE?style=for-the-badge&logo=python&logoColor=white)
-![anaconda](https://img.shields.io/badge/anaconda-43B049?style=for-the-badge&logo=anaconda&logoColor=white)
+
+#### Rust
+
+![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
 
 #### C#
 
 ![C#](https://img.shields.io/badge/C%23-350064?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512AD5?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### **GUI/front end**
+### GUI/front end
 
 ![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,7 +58,7 @@ These are the languages I'm most comfortable working with.
 ![qt](https://img.shields.io/badge/qt-00D74C?style=for-the-badge&logo=qt&logoColor=white)
 ![gtk](https://img.shields.io/badge/gtk-6195C6?style=for-the-badge)
 
-### **Cloud computing platforms**
+### Cloud computing platforms
 
 These are the cloud computing platforms I use/used arranged from most to least familiar
 
@@ -63,14 +66,13 @@ These are the cloud computing platforms I use/used arranged from most to least f
 ![google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-FF8300?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### **Miscellaneous**
+### Miscellaneous
 
 These are the language/framework/tools/etc. I've used at least once in any real capacity (i.e. more complex than hello world).
 
 #### Language
 
 ![java](https://img.shields.io/badge/java-F24335?style=for-the-badge&logo=java&logoColor=white)
-![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=white)
 ![go](https://img.shields.io/badge/go-6AD7E5?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-3F48CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-659AD2?style=for-the-badge&logo=cplusplus&logoColor=white)
