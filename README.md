@@ -48,7 +48,7 @@ These are the languages I'm most comfortable working with.
 - #### Desktop
 
 ![winform](https://img.shields.io/badge/winform-004B7C?style=for-the-badge)
-![qt](https://img.shields.io/badge/qt-00D74C?style=for-the-badge&logo=qt&logoColor=FFFFFF)
+![qt](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=FFFFFF)
 ![gtk](https://img.shields.io/badge/gtk-6195C6?style=for-the-badge)
 
 ### Cloud computing
@@ -153,5 +153,36 @@ A new homepage for [warbrokers.io](https://warbrokers.io).
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![sass](https://img.shields.io/badge/Sass-D93491?style=for-the-badge&logo=sass&logoColor=FFFFFF)
+
+### Disko
+
+linux SSD health manager for linux.
+
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=FFFFFF)
+![python](https://img.shields.io/badge/python-1171AE?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![qt](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=FFFFFF)
+
+### babel-compressor
+
+A compression algorithm based on [the library of babel](https://libraryofbabel.info/theory.html).
+
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=FFFFFF)
+
+### onetab-firefox
+
+onetab for firefox
+
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+
+### Starlight prince
+
+A platformer game based on [a minecraft map](https://blog.naver.com/edward2065/222304395450) ([YouTube](https://www.youtube.com/playlist?list=PL1dMxl3V0rvgYQi4C-UEzW7s24D4EfBXf))
+
+![godot](https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=FFFFFF)
+![blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=FFFFFF)
 
 </details>
