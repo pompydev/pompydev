@@ -12,7 +12,7 @@
     <br />
 </p>
 
-<h2  align="center"><b>Statistics</b></h2>
+<h2 align="center">Statistics</h2>
 
 <p align="center">
 	<a href="https://github.com/lowlighter/metrics">
@@ -20,7 +20,7 @@
 	</a>
 </p>
 
-<h2  align="center"><b>Skills</b></h2>
+<h2 align="center">Skills</h2>
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
@@ -65,7 +65,7 @@ These are the cloud computing platforms I use/used arranged from most to least f
 
 ![unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF)
 
-<h2  align="center"><b>Proud Projects</b></h2>
+<h2 align="center">Proud Projects</h2>
 
 ### [My blog](https://github.com/developomp/developomp-site)
 
@@ -128,7 +128,7 @@ A discord bot with a web frontend.
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 
-## Future projects
+<h2 align="center">Future projects</h2>
 
 Projects I may or may not be able to finish.
 
