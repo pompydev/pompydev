@@ -26,8 +26,6 @@
 
 ### Programming Languages
 
-These are the languages I'm most comfortable working with.
-
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![python](https://img.shields.io/badge/python-1171AE?style=for-the-badge&logo=python&logoColor=FFFFFF)
@@ -52,8 +50,6 @@ These are the languages I'm most comfortable working with.
 ![gtk](https://img.shields.io/badge/gtk-6195C6?style=for-the-badge)
 
 ### Cloud computing
-
-These are the cloud computing platforms I use/used arranged from most to least familiar
 
 ![firebase](https://img.shields.io/badge/firebase-FAC207?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
 ![google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=FFFFFF)
@@ -130,8 +126,6 @@ A discord bot with a web frontend.
 
 <h2 align="center">Future projects</h2>
 
-Projects I may or may not be able to finish.
-
 <details>
   <summary>Click to expand</summary>
   
@@ -156,7 +150,7 @@ A new homepage for [warbrokers.io](https://warbrokers.io).
 
 ### Disko
 
-linux SSD health manager for linux.
+Linux SSD health manager for linux.
 
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=FFFFFF)
 ![python](https://img.shields.io/badge/python-1171AE?style=for-the-badge&logo=python&logoColor=FFFFFF)
