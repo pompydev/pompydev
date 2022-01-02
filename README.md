@@ -111,6 +111,7 @@ A conky-like system monitor.
 
 ![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=FFFFFF)
 ![gtk](https://img.shields.io/badge/gtk-6195C6?style=for-the-badge)
+![cairo](https://img.shields.io/badge/cairo-162284?style=for-the-badge)
 
 ### [Llama Bot](https://github.com/llama-bot)
 
