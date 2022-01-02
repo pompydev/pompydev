@@ -17,13 +17,13 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          repositories_affiliations: owner, collaborator, organization_member
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/core
           config_timezone: Asia/Seoul
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/base
           base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner, organization_member
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/lines
           plugin_lines: yes
