@@ -36,11 +36,5 @@ jobs:
           plugin_languages_limit: 0
           plugin_languages_details: percentage
 
-          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/habits
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_from: 150
-          plugin_habits_charts: yes
-
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/isocalendar
           plugin_isocalendar: yes
