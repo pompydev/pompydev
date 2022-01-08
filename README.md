@@ -24,42 +24,9 @@
 
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
-### Programming Languages
-
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![python](https://img.shields.io/badge/python-1171AE?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/C%23-350064?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF)
-![java](https://img.shields.io/badge/java-F24335?style=for-the-badge&logo=java&logoColor=FFFFFF)
-![go](https://img.shields.io/badge/go-6AD7E5?style=for-the-badge&logo=go&logoColor=FFFFFF)
-
-### Front end
-
-- #### Web
-
-![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![sass](https://img.shields.io/badge/Sass-D93491?style=for-the-badge&logo=sass&logoColor=FFFFFF)
-
-- #### Desktop
-
-![winform](https://img.shields.io/badge/winform-004B7C?style=for-the-badge)
-![qt](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=FFFFFF)
-![gtk](https://img.shields.io/badge/gtk-6195C6?style=for-the-badge)
-
-### Cloud computing
-
-![firebase](https://img.shields.io/badge/firebase-FAC207?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
-![google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=FFFFFF)
-![aws](https://img.shields.io/badge/aws-FF8300?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
-![heroku](https://img.shields.io/badge/Heroku-550092?style=for-the-badge&logo=heroku&logoColor=FFFFFF)
-![oracle cloud](https://img.shields.io/badge/oracle_cloud-C74634?style=for-the-badge&logo=oracle&logoColor=FFFFFF)
-
-### Game dev
-
-![unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+<p align="center">
+	<img alt="Development skills" src="https://developomp.com/img/skills.svg"/>
+</p>
 
 <h2 align="center">Proud Projects</h2>
 
