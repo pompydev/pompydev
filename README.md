@@ -4,11 +4,14 @@
 	<a href="https://developomp.com">
 		<img src="https://img.shields.io/badge/website-grey?style=for-the-badge" />
 	</a>
+	<a href="https://developomp.com/portfolio">
+		<img src="https://img.shields.io/badge/projects-blue?style=for-the-badge" />
+	</a>
 	<a href="https://www.buymeacoffee.com/developomp">
 		<img src="https://img.shields.io/badge/buy_me_a_coffee-yellow?style=for-the-badge" />
 	</a>
 	<br />
-	I am a Korean High School graduate who wants to be a developer.<br />
+	I am a Korean High School graduate who wants to be a professional developer.<br />
     <br />
 </p>
 
@@ -22,129 +25,6 @@
 
 <h2 align="center">Skills</h2>
 
-<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-
 <p align="center">
 	<img alt="Development skills" src="https://developomp.com/img/skills.svg"/>
 </p>
-
-<h2 align="center">Proud Projects</h2>
-
-### [My blog](https://github.com/developomp/developomp-site)
-
-My blog.
-
-![firebase](https://img.shields.io/badge/firebase-FAC207?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
-![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![sass](https://img.shields.io/badge/Sass-D93491?style=for-the-badge&logo=sass&logoColor=FFFFFF)
-
-### [Mocha Downloader](https://github.com/Mocha-Downloader)
-
-A download manager.
-
-![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![electron](https://img.shields.io/badge/electron-292B37?style=for-the-badge&logo=electron&logoColor=78E5ED)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-
-### [War Brokers Mods](https://github.com/War-Brokers-Mods)
-
-A game mod.
-
-![C#](https://img.shields.io/badge/C%23-350064?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-
-### [My setup](https://github.com/developomp/setup)
-
-My Arch Linux setup script.
-
-![Arch Linux](https://img.shields.io/badge/arch_linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF)
-![linux](https://img.shields.io/badge/linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=FFFFFF)
-![gnubash](https://img.shields.io/badge/bash-283037?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
-
-### [pomky](https://github.com/developomp/pomky)
-
-A conky-like system monitor.
-
-![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=FFFFFF)
-![gtk](https://img.shields.io/badge/gtk-6195C6?style=for-the-badge)
-![cairo](https://img.shields.io/badge/cairo-162284?style=for-the-badge)
-
-### [Llama Bot](https://github.com/llama-bot)
-
-A discord bot with a web frontend.
-
-![firebase](https://img.shields.io/badge/firebase-FAC207?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
-![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-
-<h2 align="center">Future projects</h2>
-
-<details>
-  <summary>Click to expand</summary>
-  
-### boy-lang
-
-My own programming language.
-
-![rust](https://img.shields.io/badge/rust-A4310D?style=for-the-badge&logo=rust&logoColor=FFFFFF)
-![llvm](https://img.shields.io/badge/llvm-000000?style=for-the-badge&logo=llvm&logoColor=FFFFFF)
-
-### WB-Homepage
-
-A new homepage for [warbrokers.io](https://warbrokers.io).
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
-![node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![sass](https://img.shields.io/badge/Sass-D93491?style=for-the-badge&logo=sass&logoColor=FFFFFF)
-
-### Disko
-
-Linux SSD health manager for linux.
-
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=FFFFFF)
-![python](https://img.shields.io/badge/python-1171AE?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![qt](https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=FFFFFF)
-
-### babel-compressor
-
-A compression algorithm based on [the library of babel](https://libraryofbabel.info/theory.html).
-
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=FFFFFF)
-
-### onetab-firefox
-
-onetab for firefox
-
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![typescript](https://img.shields.io/badge/typescript-1D6BBE?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![css3](https://img.shields.io/badge/CSS3-1255AA?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-
-### Starlight prince
-
-A platformer game based on [a minecraft map](https://blog.naver.com/edward2065/222304395450) ([YouTube](https://www.youtube.com/playlist?list=PL1dMxl3V0rvgYQi4C-UEzW7s24D4EfBXf))
-
-![godot](https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=FFFFFF)
-![blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=FFFFFF)
-
-</details>
