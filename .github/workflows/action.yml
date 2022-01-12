@@ -1,8 +1,7 @@
 name: Metrics
 on:
-  # Update daily
-  # https://crontab.guru/#0_0_*_*_*
-  schedule: [{ cron: "0 0 * * *" }]
+  # Update on midnight every day (korean compensated for time zone)
+  schedule: [{ cron: "0 14 * * *" }]
   push:
     branches:
       - master
