@@ -11,7 +11,7 @@
 		<img src="https://img.shields.io/badge/buy_me_a_coffee-yellow?style=for-the-badge" />
 	</a>
 	<br />
-	I am a Korean college student currently studying at <a href="https://www.hongik.ac.kr">hongik university</a> who want to become a professional desktop application & front-end developer.<br />
+	I am a Korean college student currently studying at <a href="https://www.hongik.ac.kr">hongik university</a> who wants to become a professional desktop application & front-end web developer.<br />
     <br />
 </p>
 
