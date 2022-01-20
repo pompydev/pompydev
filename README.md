@@ -11,7 +11,7 @@
 		<img src="https://img.shields.io/badge/buy_me_a_coffee-yellow?style=for-the-badge" />
 	</a>
 	<br />
-	I am a Korean college student currently studying at <a href="https://www.hongik.ac.kr">hongik university</a> who wants to become a professional desktop application & front-end web developer.<br />
+	I am a Korean college student currently studying at <a href="https://www.hongik.ac.kr">hongik university</a> who wants to become a professional desktop application & front-end web developer!<br />
     <br />
 </p>
 
@@ -26,7 +26,8 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">
+	These are the skills I've used in one or more public projects.
 	<a href="https://developomp.com/portfolio">
-	    <img alt="Development skills" src="https://developomp.com/img/skills.svg"/>
-    </a>
+		<img alt="Development skills" src="https://developomp.com/img/skills.svg"/>
+	</a>
 </p>
