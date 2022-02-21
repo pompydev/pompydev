@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # Update on midnight every day (korean compensated for time zone)
-  schedule: [{ cron: "0 14 * * *" }]
+  # Update twice a day at 12hr interval
+  schedule: [{ cron: "0 1,13 * * *" }]
   push:
     branches:
       - master
