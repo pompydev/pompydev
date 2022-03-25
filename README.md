@@ -19,7 +19,7 @@
 
 <p align="center">
 	<a href="https://github.com/lowlighter/metrics">
-		<img alt="Github metrics" src="./github-metrics.svg"/>
+		<img alt="github metrics" src="./github-metrics.svg"/>
 	</a>
 </p>
 
@@ -28,7 +28,7 @@
 <p align="center">
 	Algorithm problem solving skill from <a href="https://solved.ac/developomp">solved.ac</a>
 	<br />
-	<a href="https://developomp.com/portfolio">
+	<a href="https://solved.ac/profile/developomp">
 		<img alt="solved.ac profile" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=developomp"/>
 	</a>
 </p>
@@ -39,6 +39,6 @@
 	These are the skills I've used in one or more public projects.
 	<br />
 	<a href="https://developomp.com/portfolio">
-		<img alt="Development skills" src="https://developomp.com/img/skills.svg"/>
+		<img alt="development skills" src="https://developomp.com/img/skills.svg"/>
 	</a>
 </p>
