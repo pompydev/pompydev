@@ -15,7 +15,7 @@
     <br />
 </p>
 
-<h2 align="center">Statistics</h2>
+<h2 align="center">Github Statistics</h2>
 
 <p align="center">
 	<a href="https://github.com/lowlighter/metrics">
@@ -33,7 +33,7 @@
 	</a>
 </p>
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Development Skills</h2>
 
 <p align="center">
 	These are the skills I've used in one or more public projects.
