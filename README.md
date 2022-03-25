@@ -23,6 +23,16 @@
 	</a>
 </p>
 
+<h2 align="center">Algorithm Skills</h2>
+
+<p align="center">
+	Algorithm problem solving skill from <a href="https://solved.ac/developomp">solved.ac</a>
+	<br />
+	<a href="https://developomp.com/portfolio">
+		<img alt="solved.ac profile" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=developomp"/>
+	</a>
+</p>
+
 <h2 align="center">Skills</h2>
 
 <p align="center">
