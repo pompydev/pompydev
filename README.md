@@ -11,7 +11,7 @@
 		<img src="https://img.shields.io/badge/buy_me_a_coffee-yellow?style=for-the-badge" />
 	</a>
 	<br />
-	I am a Korean college student currently studying at <a href="https://www.hongik.ac.kr">hongik university</a> who wants to become a professional desktop application & full-stack web developer!
+	I am a Korean college student studying computer science who wants to become a professional desktop application & full-stack web developer!
     <br />
 </p>
 
@@ -23,11 +23,9 @@
 	</a>
 </p>
 
-<h2 align="center">Algorithm Skills</h2>
+<h2 align="center">Problem Solving Skills</h2>
 
 <p align="center">
-	Algorithm problem solving skill from <a href="https://solved.ac/developomp">solved.ac</a>
-	<br />
 	<a href="https://solved.ac/profile/developomp">
 		<img alt="solved.ac profile" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=developomp"/>
 	</a>
@@ -36,8 +34,6 @@
 <h2 align="center">Development Skills</h2>
 
 <p align="center">
-	These are the skills I've used in one or more public projects.
-	<br />
 	<a href="https://developomp.com/portfolio">
 		<img alt="development skills" src="https://developomp.com/img/skills.svg"/>
 	</a>
