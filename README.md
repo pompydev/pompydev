@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello! I am developomp!</h1>
-
 <p align="center">
+	<img alt="👋 Hello! I am developomp!" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&text=👋%20Hello!%20I%20am%20developomp&fontSize=46&fontAlignY=35" />
+	<br />
 	<a href="https://developomp.com">
 		<img src="https://img.shields.io/badge/website-grey?style=for-the-badge" />
 	</a>
