@@ -13,6 +13,8 @@
     <br />
     I am a Korean college student studying computer science who wants to become a professional desktop application & full-stack web developer!
     <br />
+    <br />
+	working on <a href="http://github.com/exyleio">exyle.io</a>
 </p>
 
 <h2 align="center">Github Statistics</h2>
