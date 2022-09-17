@@ -34,6 +34,3 @@ jobs:
           plugin_languages: yes
           plugin_languages_other: true
           plugin_languages_details: percentage
-
-          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/isocalendar
-          plugin_isocalendar: yes
