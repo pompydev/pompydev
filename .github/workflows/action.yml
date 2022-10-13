@@ -22,7 +22,7 @@ jobs:
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/base
           base: header, activity, community, repositories, metadata
-          repositories_affiliations: owner, organization_member
+          repositories_affiliations: owner
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/lines
           plugin_lines: yes
