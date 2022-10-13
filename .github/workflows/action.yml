@@ -30,9 +30,6 @@ jobs:
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/traffic
           plugin_traffic: yes
 
-          # https://github.com/lowlighter/metrics/blob/master/source/plugins/discussions
-          plugin_discussions: yes
-
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/habits
           plugin_habits: yes
           plugin_habits_facts: no
