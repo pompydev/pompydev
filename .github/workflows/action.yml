@@ -26,7 +26,7 @@ jobs:
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/lines
           plugin_lines: yes
-          plugin_lines_sections: repositories, history
+          plugin_lines_sections: base, repositories, history
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/traffic
           plugin_traffic: yes
