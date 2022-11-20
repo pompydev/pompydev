@@ -24,7 +24,7 @@
 
 <p align="center">
 	<a href="https://github.com/lowlighter/metrics">
-		<img alt="github metrics" src="./github-metrics.svg"/>
+		<img alt="github metrics" src="./github-metrics.svg?"/>
 	</a>
 </p>
 
@@ -40,6 +40,6 @@
 
 <p align="center">
 	<a href="https://developomp.com/portfolio">
-		<img alt="development skills" src="https://developomp.com/img/skills.svg"/>
+		<img alt="development skills" src="https://developomp.com/img/skills.svg?"/>
 	</a>
 </p>
