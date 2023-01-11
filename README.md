@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="👋 Hello! I am developomp!" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&text=👋%20Hello!%20I%20am%20developomp&fontSize=46&fontAlignY=35" />
+	<img alt="👋 Hello! I am developomp!" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&customColorList=2,4,6,12,19,21,23,24,30&text=👋%20Hello!%20I%20am%20developomp&fontSize=46&fontAlignY=35" />
 	<br />
 	<a href="https://developomp.com/about">
 		<img src="https://img.shields.io/badge/about_me-grey?style=for-the-badge" />
