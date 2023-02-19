@@ -20,6 +20,14 @@
 	working on <a href="https://github.com/War-Brokers">War Brokers</a>
 </p>
 
+<h2 align="center">Discord</h2>
+
+<p align="center">
+	<a href="https://discord.c99.nl">
+		<img alt="github metrics" src="https://discord.c99.nl/widget/theme-1/501277805540147220.png?"/>
+	</a>
+</p>
+
 <h2 align="center">Github Statistics</h2>
 
 <p align="center">
