@@ -36,6 +36,15 @@
 	</a>
 </p>
 
+<h2 align="center">Wakatime Statistics</h2>
+
+<p align="center">
+	<a href="https://wakatime.com/@developomp">
+		<img alt="wakatime language pie chart" src="https://wakatime.com/share/@developomp/7a334a64-49eb-4cf0-a95b-4ecec7738e87.svg"
+		style="max-width: 750px"/>
+	</a>
+</p>
+
 <h2 align="center">Algorithm Skills</h2>
 
 <p align="center">
