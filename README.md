@@ -17,7 +17,7 @@
     I am a Korean college student studying computer science who wants to become a professional desktop application & full-stack web developer!
     <br />
     <br />
-	working on <a href="https://github.com/War-Brokers">War Brokers</a>
+	working on <a href="https://developomp.notion.site/46c84ccea95440bb8d754807b0537f1e">War Brokers Community Development (WBCD)</a>
 </p>
 
 <h2 align="center">Discord</h2>
