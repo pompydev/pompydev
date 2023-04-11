@@ -48,9 +48,19 @@
 
 <h2 align="center">Algorithm Skills</h2>
 
-<p align="center">
+<h3 align="center">Baekjoon Online Judge (BOJ / 백준 / ACM ICPC / solved.ac)</h3>
+
+<p align="center" style="flex">
 	<a href="https://solved.ac/profile/developomp">
 		<img alt="solved.ac profile" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=developomp"/>
+	</a>
+</p>
+
+<h3 align="center">LeetCode</h3>
+
+<p align="center">
+	<a href="https://leetcode.com/developomp">
+		<img alt="LeetCode profile" src="https://leetcode-stats-six.vercel.app/?username=developomp&theme=dark"/>
 	</a>
 </p>
 
