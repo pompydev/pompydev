@@ -18,7 +18,7 @@
     <br />
     <br />
 	working on <a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> and
-	<a href="https://developomp.notion.site/46c84ccea95440bb8d754807b0537f1e">War Brokers Community Development (WBCD)</a>
+	<a href="https://war-brokers-projects.notion.site/0ab13d7077a843e79b99a328e00d2008">War Brokers Projects (WBP)</a>
 </p>
 
 <h2 align="center">Discord</h2>
