@@ -7,12 +7,12 @@
     <a href="https://developomp.com/portfolio">
     	<img src="https://img.shields.io/badge/projects-blue?style=for-the-badge" />
     </a>
-	<a href="https://www.buymeacoffee.com/developomp">
+	<!-- <a href="https://www.buymeacoffee.com/developomp">
 		<img src="https://img.shields.io/badge/buy_me_a_coffee-yellow?style=for-the-badge" />
 	</a>
 	<a href="https://www.patreon.com/developomp">
 		<img src="https://img.shields.io/badge/patreon-f96854?style=for-the-badge" />
-	</a>
+	</a> -->
     <br />
     I am a Korean college student studying computer science who wants to become a professional desktop application & full-stack web developer!
     <br />
