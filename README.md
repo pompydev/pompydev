@@ -64,7 +64,7 @@
 <h2 align="center">Development Skills</h2>
 
 <p align="center">
-	<a href="https://blog/developomp.com/portfolio">
-		<img alt="development skills" src="https://blog.developomp.com/img/skills.svg?"/>
+	<a href="https://portfolio.developomp.com">
+		<img alt="development skills" src="https://developomp.com/skills.svg"/>
 	</a>
 </p>
