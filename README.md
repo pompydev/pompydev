@@ -60,11 +60,3 @@
 		<img alt="LeetCode profile" src="https://leetcode-stats-six.vercel.app/?username=developomp&theme=dark"/>
 	</a>
 </p>
-
-<h2 align="center">Development Skills</h2>
-
-<p align="center">
-	<a href="https://portfolio.developomp.com">
-		<img alt="development skills" src="https://developomp.com/skills.svg"/>
-	</a>
-</p>
