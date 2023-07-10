@@ -36,8 +36,7 @@
 
 <p align="center">
 	<a href="https://wakatime.com/@developomp">
-		<img alt="wakatime language pie chart" src="https://wakatime.com/share/@developomp/7a334a64-49eb-4cf0-a95b-4ecec7738e87.svg"
-		style="max-width: 750px"/>
+		<img alt="wakatime language pie chart" src="https://wakatime.com/share/@developomp/7a334a64-49eb-4cf0-a95b-4ecec7738e87.svg" />
 	</a>
 </p>
 
@@ -45,7 +44,7 @@
 
 <h3 align="center">Baekjoon Online Judge (BOJ / 백준 / ACM ICPC / solved.ac)</h3>
 
-<p align="center" style="flex">
+<p align="center">
 	<a href="https://solved.ac/profile/developomp">
 		<img alt="solved.ac profile" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=developomp"/>
 	</a>
