@@ -18,10 +18,6 @@
 	</a> -->
     <br />
     I am a Korean college student studying computer science who wants to become a professional desktop application & full-stack web developer!
-    <br />
-    <br />
-	working on <a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> and
-	<a href="https://war-brokers-projects.notion.site/0ab13d7077a843e79b99a328e00d2008">War Brokers Projects (WBP)</a>
 </p>
 
 <h2 align="center">Github Statistics</h2>
