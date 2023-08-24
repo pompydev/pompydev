@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/patreon-f96854?style=for-the-badge" />
     </a> -->
     <br />
-    I am a Korean college student studying computer science who wants to become a professional desktop application & full-stack web developer!
+    I am a Korean college student studying computer science who wants to become a professional front-end web developer!
 </p>
 
 <h2 align="center">Github Statistics</h2>
