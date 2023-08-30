@@ -35,21 +35,3 @@
         <img alt="wakatime language pie chart" src="https://wakatime.com/share/@developomp/7a334a64-49eb-4cf0-a95b-4ecec7738e87.svg" />
     </a>
 </p>
-
-<h2 align="center">Algorithm Skills</h2>
-
-<h3 align="center">Baekjoon Online Judge (BOJ / 백준 / ACM ICPC / solved.ac)</h3>
-
-<p align="center">
-    <a href="https://solved.ac/profile/developomp">
-        <img alt="solved.ac profile" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=developomp"/>
-    </a>
-</p>
-
-<h3 align="center">LeetCode</h3>
-
-<p align="center">
-    <a href="https://leetcode.com/developomp">
-        <img alt="LeetCode profile" src="https://leetcode-stats-six.vercel.app/?username=developomp&theme=dark"/>
-    </a>
-</p>
