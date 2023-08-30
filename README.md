@@ -20,6 +20,6 @@
 
 <p align="center">
     <a href="https://github.com/lowlighter/metrics">
-        <img alt="github metrics" src="./github-metrics.svg?"/>
+        <img alt="github metrics" src="./github-metrics.svg?" width="100%"/>
     </a>
 </p>
