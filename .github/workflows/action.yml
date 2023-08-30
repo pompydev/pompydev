@@ -27,3 +27,9 @@ jobs:
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/traffic
           plugin_traffic: yes
+
+          # https://github.com/lowlighter/metrics/tree/latest/source/plugins/community/16personalities
+          plugin_16personalities: yes
+          plugin_16personalities_url: https://www.16personalities.com/profiles/5f8944786b6bf
+          plugin_16personalities_sections: personality, profile, traits
+          plugin_16personalities_scores: yes
