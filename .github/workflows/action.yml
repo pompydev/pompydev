@@ -23,7 +23,7 @@ jobs:
           config_timezone: Asia/Seoul
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/base
-          base: header, repositories, metadata
+          base: header
 
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/traffic
           plugin_traffic: yes
