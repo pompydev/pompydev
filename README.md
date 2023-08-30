@@ -16,8 +16,6 @@
     <a href="https://www.patreon.com/developomp">
         <img src="https://img.shields.io/badge/patreon-f96854?style=for-the-badge" />
     </a> -->
-    <br />
-    I am a Korean college student studying computer science who wants to become a professional front-end web developer!
 </p>
 
 <p align="center">
