@@ -20,18 +20,8 @@
     I am a Korean college student studying computer science who wants to become a professional front-end web developer!
 </p>
 
-<h2 align="center">Github Statistics</h2>
-
 <p align="center">
     <a href="https://github.com/lowlighter/metrics">
         <img alt="github metrics" src="./github-metrics.svg?"/>
-    </a>
-</p>
-
-<h2 align="center">Wakatime Statistics</h2>
-
-<p align="center">
-    <a href="https://wakatime.com/@developomp">
-        <img alt="wakatime language pie chart" src="https://wakatime.com/share/@developomp/7a334a64-49eb-4cf0-a95b-4ecec7738e87.svg" />
     </a>
 </p>
