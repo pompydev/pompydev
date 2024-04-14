@@ -31,6 +31,6 @@ jobs:
           # https://github.com/lowlighter/metrics/tree/latest/source/plugins/wakatime
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_sections: projects-graphs, languages, languages-graphs
+          plugin_wakatime_sections: projects-graphs, languages-graphs
           plugin_wakatime_days: 180
           plugin_wakatime_limit: 10
