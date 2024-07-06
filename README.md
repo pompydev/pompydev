@@ -1,16 +1,27 @@
 <p align="center">
-    <img alt="👋 Hello! I am developomp!" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&customColorList=2,4,6,12,19,21,23,24,30&text=👋%20Hello!%20I%20am%20developomp&fontSize=46&fontAlignY=35" />
-    <br />
-    <a href="https://developomp.com"><img alt="developomp.com" src="https://img.shields.io/badge/developomp.com-grey?style=for-the-badge" /></a>
-    <a href="https://blog.developomp.com"><img alt="blog" src="https://img.shields.io/badge/blog-teal?style=for-the-badge" /></a>
-    <br />
-    <a href="https://github.com/sponsors/developomp"><img alt="github sponsor" src="https://img.shields.io/badge/github_sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
-    <a href="https://patreon.com/developomp"><img alt="patreon" src="https://img.shields.io/badge/patreon-f96854?style=for-the-badge&logo=patreon" /></a>
-    <a href="https://buymeacoffee.com/developomp"><img alt="buy me a coffee" src="https://img.shields.io/badge/buy_me_a_coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" /></a>
+    <a href="https://github.com/kyechan99/capsule-render"><img alt="👋 Hello! I am developomp!" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&customColorList=2,4,6,12,19,21,23,24,30&text=👋%20Hello!%20I%20am%20developomp&fontSize=46&fontAlignY=35" /></a>
+    <a href="https://github.com/lowlighter/metrics"><img alt="github metrics" src="./github-metrics.svg" /></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/lowlighter/metrics">
-        <img alt="github metrics" src="./github-metrics.svg?" />
-    </a>
-</p>
+## About me
+
+- Linux enthusiast (arch btw)
+  - obsessed with optimizing E2E [audio](https://github.com/developomp/pompup/blob/master/internal/installers/pipewire.go) & [video](https://github.com/developomp/pompup/blob/master/internal/installers/nvidia.go) latency
+- OSS believer
+- Interested in UX
+
+## Waiting room
+
+- [osu!](https://github.com/ppy/osu)
+  - [ppy/osu-performance](https://github.com/ppy/osu-performance) deprecation ([more info](https://github.com/ppy/osu-infrastructure/wiki/Star-Rating-and-Performance-Points))
+  - https://github.com/ppy/osu/pull/16280
+  - [ppy/osu-queue-score-statistics](https://github.com/ppy/osu-queue-score-statistics) realtime difficulty processing
+- [1TB VRAM](https://panmnesia.com/news_en/cxl-gpu-image)
+- [Nvidia JIT frame scheduling on Linux (Ultra Low Latency)](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
+- [GNOME Korean input mode switch](https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4082)
+- [COSMIC DE](https://github.com/pop-os/cosmic-epoch)
+
+## Support my work
+
+<a href="https://github.com/sponsors/developomp"><img alt="github sponsor" src="https://img.shields.io/badge/github_sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
+<a href="https://patreon.com/developomp"><img alt="patreon" src="https://img.shields.io/badge/patreon-f96854?style=for-the-badge&logo=patreon" /></a>
