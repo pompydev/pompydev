@@ -12,10 +12,6 @@
 
 ## Waiting room
 
-- [osu!](https://github.com/ppy/osu)
-  - [ppy/osu-performance](https://github.com/ppy/osu-performance) deprecation ([more info](https://github.com/ppy/osu-infrastructure/wiki/Star-Rating-and-Performance-Points))
-  - https://github.com/ppy/osu/pull/16280
-  - [ppy/osu-queue-score-statistics](https://github.com/ppy/osu-queue-score-statistics) realtime difficulty processing
 - [1TB VRAM](https://panmnesia.com/news_en/cxl-gpu-image)
 - [Nvidia JIT frame scheduling on Linux (Ultra Low Latency)](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
 - [GNOME Korean input mode switch](https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4082)
