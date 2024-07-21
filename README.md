@@ -12,9 +12,8 @@
 
 ## Waiting room
 
-- [1TB VRAM](https://panmnesia.com/news_en/cxl-gpu-image)
 - [Nvidia JIT frame scheduling on Linux (Ultra Low Latency)](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
-- [GNOME Korean input mode switch](https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4082)
+- [better GNOME Korean input mode switching](https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4082)
 - [COSMIC DE](https://github.com/pop-os/cosmic-epoch)
 
 ## Support my work
