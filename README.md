@@ -6,9 +6,7 @@
 ## About me
 
 - Linux enthusiast (arch btw)
-  - obsessed with optimizing E2E [audio](https://github.com/developomp/pompup/blob/master/internal/installers/pipewire.go) & [video](https://github.com/developomp/pompup/blob/master/internal/installers/nvidia.go) latency
 - OSS believer
-- Interested in UX
 
 ## Waiting room
 
