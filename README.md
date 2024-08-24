@@ -16,6 +16,8 @@
 - [better GNOME Korean input mode switching](https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4082)
 - [COSMIC DE](https://github.com/pop-os/cosmic-epoch)
 
+## Wanna talk?
+![discord server invite](https://invidget.switchblade.xyz/aQqamSCUcS)
 ## Support my work
 
 <a href="https://github.com/sponsors/developomp"><img alt="github sponsor" src="https://img.shields.io/badge/github_sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
