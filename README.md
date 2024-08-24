@@ -17,7 +17,8 @@
 - [COSMIC DE](https://github.com/pop-os/cosmic-epoch)
 
 ## Wanna talk?
-![discord server invite](https://invidget.switchblade.xyz/aQqamSCUcS)
+[![discord server invite](https://invidget.switchblade.xyz/aQqamSCUcS)](https://discord.com/invite/aQqamSCUcS)
+
 ## Support my work
 
 <a href="https://github.com/sponsors/developomp"><img alt="github sponsor" src="https://img.shields.io/badge/github_sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
