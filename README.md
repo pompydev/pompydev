@@ -11,8 +11,7 @@
 ## Waiting room
 
 - [Nvidia JIT frame scheduling on Linux (Ultra Low Latency)](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
-- [better GNOME Korean input mode switching](https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4082)
-- [COSMIC DE](https://github.com/pop-os/cosmic-epoch)
+- [coolify autoscaling with k8s](https://github.com/coollabsio/coolify/issues/2390)
 
 ## Wanna talk?
 [![discord server invite](https://invidget.switchblade.xyz/aQqamSCUcS)](https://discord.com/invite/aQqamSCUcS)
