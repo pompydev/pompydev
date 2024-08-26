@@ -12,6 +12,7 @@
 
 - [Nvidia JIT frame scheduling on Linux (Ultra Low Latency)](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
 - [coolify autoscaling with k8s](https://github.com/coollabsio/coolify/issues/2390)
+- [yara-x process scanning](https://virustotal.github.io/yara-x/docs/intro/yara-x-vs-yara/#no-process-scanning)
 
 ## Wanna talk?
 [![discord server invite](https://invidget.switchblade.xyz/aQqamSCUcS)](https://discord.com/invite/aQqamSCUcS)
