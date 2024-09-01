@@ -1,12 +1,32 @@
-<p align="center">
-    <a href="https://github.com/kyechan99/capsule-render"><img alt="👋 Hello! I am developomp!" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&customColorList=2,4,6,12,19,21,23,24,30&text=👋%20Hello!%20I%20am%20developomp&fontSize=46&fontAlignY=35" /></a>
-    <a href="https://github.com/lowlighter/metrics"><img alt="github metrics" src="./github-metrics.svg" /></a>
-</p>
+<p align="center"><a href="https://github.com/kyechan99/capsule-render"><img alt="👋 Hello! I am developomp!" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&customColorList=2,4,6,12,19,21,23,24,30&text=👋%20Hello!%20I%20am%20developomp!&fontSize=46&fontAlignY=35" /></a></p>
 
-## About me
+## Trivia
 
-- Linux enthusiast (arch btw)
-- OSS believer
+<!-- prettier-ignore -->
+```js
+// Q: What's your ethnicity?
+   A: "I am Korean!"
+
+// Q: Where do you live?
+   A: "I live in Seoul, South Korea :D"
+
+// Q: What are you doing right now?
+   A: "I am serving in military until April 2025"
+
+// Q: Are you an Linux & OSS enthusiast?
+   A: "Yes (arch btw)"
+
+// Q: What is your favorite quote?
+   A: "An idiot admires complexity, a genius admires simplicity..."
+//                                                 ― Terry A. Davis
+
+// Q: Is this even a valid JS syntax?
+   A: "Yes."
+```
+
+## Cool stats
+
+<a href="https://github.com/lowlighter/metrics"><img alt="github metrics" src="./github-metrics.svg" /></a>
 
 ## Waiting room
 
