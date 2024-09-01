@@ -17,8 +17,8 @@
    A: "Yes (arch btw)"
 
 // Q: What is your favorite quote?
-   A: "An idiot admires complexity, a genius admires simplicity..."
-//                                                 ― Terry A. Davis
+   A: `An idiot admires complexity, a genius admires simplicity...
+                                                  ― Terry A. Davis`
 
 // Q: Is this even a valid JS syntax?
    A: "Yes."
