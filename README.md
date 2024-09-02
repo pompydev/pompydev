@@ -13,7 +13,7 @@
 // Q: What are you doing right now?
    A: "I am serving in military until April 2025"
 
-// Q: Are you an Linux & OSS enthusiast?
+// Q: Are you a Linux & OSS enthusiast?
    A: "Yes (arch btw)"
 
 // Q: What is your favorite quote?
