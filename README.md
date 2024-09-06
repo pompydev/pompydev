@@ -33,6 +33,7 @@
 - [coolify autoscaling with k8s](https://github.com/coollabsio/coolify/issues/2390)
 - [yara-x process scanning](https://virustotal.github.io/yara-x/docs/intro/yara-x-vs-yara/#no-process-scanning)
 - [GNOME tearing](https://gitlab.gnome.org/GNOME/mutter/-/issues/2517)
+- [Github issue creation for contributors only](https://github.com/dear-github/dear-github/issues/293)
 
 ## Wanna talk?
 
