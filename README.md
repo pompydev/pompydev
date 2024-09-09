@@ -29,11 +29,12 @@
 
 ## Waiting room
 
-- [Nvidia JIT frame scheduling on Linux (Ultra Low Latency)](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
-- [coolify autoscaling with k8s](https://github.com/coollabsio/coolify/issues/2390)
-- [yara-x process scanning](https://virustotal.github.io/yara-x/docs/intro/yara-x-vs-yara/#no-process-scanning)
-- [GNOME tearing](https://gitlab.gnome.org/GNOME/mutter/-/issues/2517)
-- [Github issue creation for contributors only](https://github.com/dear-github/dear-github/issues/293)
+- [JIT frame scheduling on Linux with Nvidia graphics](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
+- [Coolify autoscaling with k8s](https://github.com/coollabsio/coolify/issues/2390)
+- [Coolify shared variables bug fix](https://github.com/coollabsio/coolify/issues/2169)
+- [process scanning with yara-x](https://virustotal.github.io/yara-x/docs/intro/yara-x-vs-yara/#no-process-scanning)
+- [screen tearing on GNOME](https://gitlab.gnome.org/GNOME/mutter/-/issues/2517)
+- [contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
 
 ## Wanna talk?
 
