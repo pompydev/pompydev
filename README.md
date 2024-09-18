@@ -23,6 +23,22 @@
    A: "Yes."
 ```
 
+<details>
+   <summary><b>Click for more useless information</b></summary>
+
+### POMP's street credit tier list
+
+- 100x dev
+  - [Jim Keller](https://en.wikipedia.org/wiki/Jim_Keller_%28engineer%29)
+  - [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
+- 10x dev
+  - [Dean Herbert](https://github.com/peppy) - [osu!](https://github.com/ppy/osu)
+  - [Asahi Lina](https://github.com/asahilina) - [Asahi Linux](https://github.com/AsahiLinux)
+  - [Andreas Kling](https://github.com/awesomekling) - [LadyBird](https://github.com/LadybirdBrowser/ladybird)
+  - [Vaxry](https://github.com/vaxerski) - [Hyprland](https://github.com/hyprwm/Hyprland)
+
+</details>
+
 ## Cool stats
 
 <a href="https://github.com/lowlighter/metrics"><img alt="github metrics" src="./github-metrics.svg" /></a>
