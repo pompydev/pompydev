@@ -26,7 +26,7 @@
 <details>
    <summary><b>Click for more useless information</b></summary>
 
-### POMP's street credit tier list
+### pomp's street cred tier list
 
 - 100x dev
   - [Jim Keller](https://en.wikipedia.org/wiki/Jim_Keller_%28engineer%29)
