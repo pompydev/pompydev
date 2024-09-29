@@ -26,16 +26,33 @@
 <details>
    <summary><b>Click for more useless information</b></summary>
 
-### pomp's street cred tier list
+### pomp's ranking of big brain
 
-- 100x dev
+Inspired by [Landau's ranking of physicist](https://en.wikipedia.org/wiki/Lev_Landau#Landau's_ranking_of_physicists)
+
+Formula: $\text{factor}=4^{5-\text{rank}}$ ([desmos](https://www.desmos.com/calculator/nttcmpjgbk))
+
+- Rank 0 (1024x brain)
+  - [John Von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
+  - [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton)
+- Rank 1.5 (128x brain)
+  - [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)
+- Rank 2 (64x brain)
   - [Jim Keller](https://en.wikipedia.org/wiki/Jim_Keller_%28engineer%29)
+- Rank 2.5 (32x brain)
   - [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
-- 10x dev
-  - [Dean Herbert](https://github.com/peppy) - [osu!](https://github.com/ppy/osu)
+- Rank 3 (16x brain)
   - [Asahi Lina](https://github.com/asahilina) - [Asahi Linux](https://github.com/AsahiLinux)
   - [Andreas Kling](https://github.com/awesomekling) - [LadyBird](https://github.com/LadybirdBrowser/ladybird)
+- Rank 3.5 (8x brain)
+  - [Dean Herbert](https://github.com/peppy) - [osu!](https://github.com/ppy/osu)
   - [Vaxry](https://github.com/vaxerski) - [Hyprland](https://github.com/hyprwm/Hyprland)
+- Rank 4 (4x brain)
+  - [ThePrimeagen](https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw)
+- Rank 5 (1x brain)
+  - N/A
+- Rank 5.5 (0.5x brain)
+  - me!
 
 </details>
 
