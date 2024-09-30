@@ -23,10 +23,14 @@
    A: "Yes."
 ```
 
+## Cool stats
+
+<a href="https://github.com/lowlighter/metrics"><img alt="github metrics" src="./github-metrics.svg" /></a>
+
 <details>
    <summary><b>Click for more useless information</b></summary>
 
-### pomp's ranking of big brain
+## pomp's ranking of big brain
 
 Inspired by [Landau's ranking of physicist](https://en.wikipedia.org/wiki/Lev_Landau#Landau's_ranking_of_physicists)
 
@@ -54,12 +58,6 @@ Formula: $\text{factor}=4^{5-\text{rank}}$ ([desmos](https://www.desmos.com/calc
 - Rank 5.5 (0.5x brain)
   - me!
 
-</details>
-
-## Cool stats
-
-<a href="https://github.com/lowlighter/metrics"><img alt="github metrics" src="./github-metrics.svg" /></a>
-
 ## Waiting room
 
 - feature
@@ -69,6 +67,8 @@ Formula: $\text{factor}=4^{5-\text{rank}}$ ([desmos](https://www.desmos.com/calc
   - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
 - bug fix
   - [Coolify broken shared variables](https://github.com/coollabsio/coolify/issues/2169)
+
+</details>
 
 ## Wanna talk?
 
