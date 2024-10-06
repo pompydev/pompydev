@@ -84,3 +84,5 @@ Formula: $\text{factor}=4^{5-\text{rank}}$ ([desmos](https://www.desmos.com/calc
 
 <a href="https://github.com/sponsors/developomp"><img alt="github sponsor" src="https://img.shields.io/badge/github_sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
 <a href="https://patreon.com/developomp"><img alt="patreon" src="https://img.shields.io/badge/patreon-f96854?style=for-the-badge&logo=patreon" /></a>
+
+XMR:`4AqRj4MELELTp6ELzGCS5zDLtDyQzJBdR5npNenPMnFyYLDjzkdFtMR8XsJPTgJ4wEXS7JTwzKWSAMkXu7LdT8jU1sqyRdw`
