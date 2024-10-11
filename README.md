@@ -70,6 +70,7 @@ Formula: $\text{factor}=4^{5-\text{rank}}$ ([desmos](https://www.desmos.com/calc
   - https://github.com/NixOS/nixpkgs/issues/346610
   - https://github.com/NixOS/nixpkgs/issues/346613
   - https://github.com/NixOS/nixpkgs/issues/347828
+  - https://github.com/NixOS/nixpkgs/issues/347834
   - [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
   - [Coolify autoscaling with k8s](https://github.com/coollabsio/coolify/issues/2390)
   - [yara-x process scanning](https://virustotal.github.io/yara-x/docs/intro/yara-x-vs-yara/#no-process-scanning)
