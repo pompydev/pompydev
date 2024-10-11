@@ -66,6 +66,8 @@ Formula: $\text{factor}=4^{5-\text{rank}}$ ([desmos](https://www.desmos.com/calc
 
 ## Waiting room
 
+- milestone
+  - [devenv](https://github.com/cachix/devenv) 5k GitHub stars, making it eligible for [simple-icons](https://github.com/simple-icons/simple-icons) submission
 - feature
   - https://github.com/NixOS/nixpkgs/issues/346610
   - https://github.com/NixOS/nixpkgs/issues/346613
