@@ -55,13 +55,11 @@ Formula: $\text{factor}=4^{5-\text{rank}}$ ([desmos](https://www.desmos.com/calc
   - [Andreas Kling](https://github.com/awesomekling) - [LadyBird](https://github.com/LadybirdBrowser/ladybird)
   - [Dean Herbert](https://github.com/peppy) - [osu!](https://github.com/ppy/osu)
   - [Vaxry](https://github.com/vaxerski) - [Hyprland](https://github.com/hyprwm/Hyprland)
+  - [NeetCodeIO](https://youtube.com/channel/UCevUmOfLTUX9MNGJQKsPdIA)
 - Rank 4 (4x brain)
   - [ThePrimeagen](https://youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw)
   - [Theo Browne](https://youtube.com/channel/UCbRP3c757lWg9M-U7TyEkXA)
-  - [NeetCodeIO](https://youtube.com/channel/UCevUmOfLTUX9MNGJQKsPdIA)
 - Rank 5 (1x brain)
-  - N/A
-- Rank 5.5 (0.5x brain)
   - me!
 
 ## Waiting room
