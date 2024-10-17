@@ -52,7 +52,7 @@ Formula: $\text{multiplier}=4^{5-\text{level}}$ ([desmos](https://www.desmos.com
 - Lv 3 (16x brain)
   - [3Blue1Brown](https://youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
   - [Asahi Lina](https://github.com/asahilina) - [Asahi Linux](https://github.com/AsahiLinux)
-- Lv 3.5 (8x brain)
+- Lv 3.5 (8x brain) and below
   - [Andreas Kling](https://github.com/awesomekling) - [LadyBird](https://github.com/LadybirdBrowser/ladybird)
   - [Dean Herbert](https://github.com/peppy) - [osu!](https://github.com/ppy/osu)
   - [Thibault Duplessis](https://github.com/ornicar) - [Lichess](https://github.com/lichess-org)
@@ -60,7 +60,6 @@ Formula: $\text{multiplier}=4^{5-\text{level}}$ ([desmos](https://www.desmos.com
   - [NeetCodeIO](https://youtube.com/channel/UCevUmOfLTUX9MNGJQKsPdIA)
   - [Sebastian Lague](https://youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
   - [ThePrimeagen](https://youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw)
-- Lv 4 (4x brain)
   - [Theo Browne](https://youtube.com/channel/UCbRP3c757lWg9M-U7TyEkXA)
 - Lv 5 (1x brain)
   - me!
