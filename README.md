@@ -27,10 +27,12 @@
 
 <a href="https://github.com/lowlighter/metrics"><img alt="github metrics" src="./github-metrics.svg" /></a>
 
-<details>
-   <summary><b>Click for more useless information</b></summary>
+## Useless info
 
-## pomp's ranking of big brain
+<details>
+   <summary><b>Click for useless information</b></summary>
+
+### pomp's ranking of big brain
 
 Inspired by [Landau's ranking of physicist](https://en.wikipedia.org/wiki/Lev_Landau#Landau's_ranking_of_physicists)
 
@@ -62,7 +64,7 @@ Formula: $\text{factor}=4^{5-\text{rank}}$ ([desmos](https://www.desmos.com/calc
 - Rank 5 (1x brain)
   - me!
 
-## Waiting room
+### Waiting room
 
 - milestone
   - [devenv](https://github.com/cachix/devenv) 5k GitHub stars, making it eligible for [simple-icons](https://github.com/simple-icons/simple-icons) submission
