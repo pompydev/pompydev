@@ -59,8 +59,8 @@ Formula: $\text{multiplier}=4^{5-\text{level}}$ ([desmos](https://www.desmos.com
   - [Vaxry](https://github.com/vaxerski) - [Hyprland](https://github.com/hyprwm/Hyprland)
   - [NeetCodeIO](https://youtube.com/channel/UCevUmOfLTUX9MNGJQKsPdIA)
   - [Sebastian Lague](https://youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ)
-- Lv 4 (4x brain)
   - [ThePrimeagen](https://youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw)
+- Lv 4 (4x brain)
   - [Theo Browne](https://youtube.com/channel/UCbRP3c757lWg9M-U7TyEkXA)
 - Lv 5 (1x brain)
   - me!
