@@ -66,21 +66,16 @@ Formula: $\text{multiplier}=4^{5-\text{level}}$ ([desmos](https://www.desmos.com
 
 ### Waiting room
 
-- milestone
-  - [devenv](https://github.com/cachix/devenv) 5k GitHub stars, making it eligible for [simple-icons](https://github.com/simple-icons/simple-icons) submission
-- feature
-  - https://github.com/NixOS/nixpkgs/issues/346610
-  - https://github.com/NixOS/nixpkgs/issues/346613
-  - https://github.com/NixOS/nixpkgs/issues/347828
-  - https://github.com/NixOS/nixpkgs/issues/347834
-  - https://github.com/NixOS/nixpkgs/issues/327982
-  - https://github.com/NixOS/nixpkgs/issues/81418 (mostly there ig)
-  - [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
-  - [Coolify autoscaling with k8s](https://github.com/coollabsio/coolify/issues/2390)
-  - [yara-x process scanning](https://virustotal.github.io/yara-x/docs/intro/yara-x-vs-yara/#no-process-scanning)
-  - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
-- bug fix
-  - [Coolify broken shared variables](https://github.com/coollabsio/coolify/issues/2169)
+- [devenv](https://github.com/cachix/devenv) 5k GitHub stars, making it eligible for [simple-icons](https://github.com/simple-icons/simple-icons) submission
+- NixOS
+  - [Package request: Zen Browser](https://github.com/NixOS/nixpkgs/issues/327982)
+  - [Package request: snoop](https://github.com/NixOS/nixpkgs/issues/346610)
+  - [Package request: hashes](https://github.com/NixOS/nixpkgs/issues/346613)
+  - [Package request: godots](https://github.com/NixOS/nixpkgs/issues/347828)
+  - [Package request: inspector](https://github.com/NixOS/nixpkgs/issues/347834)
+  - [Update request: rustdesk 1.3.0 → 1.3.1](https://github.com/NixOS/nixpkgs/issues/349704)
+- [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
+- [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
 
 </details>
 
