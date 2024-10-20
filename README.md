@@ -69,7 +69,6 @@ Formula: $\text{multiplier}=4^{5-\text{level}}$ ([desmos](https://www.desmos.com
 - [devenv](https://github.com/cachix/devenv) 5k GitHub stars, making it eligible for [simple-icons](https://github.com/simple-icons/simple-icons) submission
 - NixOS
   - [Package request: Zen Browser](https://github.com/NixOS/nixpkgs/issues/327982)
-  - [Package request: hashes](https://github.com/NixOS/nixpkgs/issues/346613)
   - [Package request: godots](https://github.com/NixOS/nixpkgs/issues/347828)
   - [Package request: inspector](https://github.com/NixOS/nixpkgs/issues/347834)
   - [Update request: rustdesk 1.3.0 → 1.3.1](https://github.com/NixOS/nixpkgs/issues/349704)
