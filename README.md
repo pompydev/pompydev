@@ -73,6 +73,7 @@ Formula: $\text{multiplier}=4^{5-\text{level}}$ ([desmos](https://www.desmos.com
   - [Package request: godots](https://github.com/NixOS/nixpkgs/issues/347828)
   - [Package request: inspector](https://github.com/NixOS/nixpkgs/issues/347834)
   - [Update request: rustdesk 1.3.0 → 1.3.1](https://github.com/NixOS/nixpkgs/issues/349704)
+  - [Mission Center does not show GPU stats on NVIDIA GPU](https://github.com/NixOS/nixpkgs/issues/342274)
 - [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
 - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
 
