@@ -30,6 +30,7 @@
 ## Waiting room
 
 - [devenv](https://github.com/cachix/devenv) 5k GitHub stars, making it eligible for [simple-icons](https://github.com/simple-icons/simple-icons) submission
+- [devenv CUDA support](https://github.com/cachix/devenv/pull/422)
 - NixOS
   - [Package request: Zen Browser](https://github.com/NixOS/nixpkgs/issues/327982)
   - [Package request: godots](https://github.com/NixOS/nixpkgs/issues/347828)
