@@ -40,6 +40,7 @@
 - [biomejs full svelte support](https://biomejs.dev/internals/language-support)
 - [Deno workspace wildcard](https://github.com/denoland/deno/issues/25783)
 - [anytype excalidraw support](https://community.anytype.io/t/excalidraw-plugin/9267)
+- [anytype option to download all files](https://community.anytype.io/t/10593)
 
 ## Wanna talk?
 
