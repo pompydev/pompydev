@@ -35,6 +35,7 @@
   - [Package request: godots](https://github.com/NixOS/nixpkgs/issues/347828)
   - [Update request: rustdesk 1.3.0 → 1.3.1](https://github.com/NixOS/nixpkgs/issues/349704)
   - [Mission Center does not show GPU stats on NVIDIA GPU](https://github.com/NixOS/nixpkgs/issues/342274)
+  - [open-webui build failure](https://github.com/NixOS/nixpkgs/issues/349361#issuecomment-2420565136)
 - [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
 - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
 - [biomejs full svelte support](https://biomejs.dev/internals/language-support)
