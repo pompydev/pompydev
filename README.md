@@ -35,7 +35,6 @@
   - [Package request: Zen Browser](https://github.com/NixOS/nixpkgs/issues/327982)
   - [Package request: godots](https://github.com/NixOS/nixpkgs/issues/347828)
   - [Package request: `breezex-cursor-light`, `breezex-cursor-dark`, and `breezex-cursor-black`](https://github.com/NixOS/nixpkgs/issues/351785)
-  - [Update request: rustdesk 1.3.0 → 1.3.1](https://github.com/NixOS/nixpkgs/issues/349704)
   - [Mission Center does not show GPU stats on NVIDIA GPU](https://github.com/NixOS/nixpkgs/issues/342274)
   - [open-webui build failure](https://github.com/NixOS/nixpkgs/issues/349361#issuecomment-2420565136)
 - [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
