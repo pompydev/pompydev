@@ -30,7 +30,6 @@
 ## Waiting room
 
 - [devenv](https://github.com/cachix/devenv) 5k GitHub stars, making it eligible for [simple-icons](https://github.com/simple-icons/simple-icons) submission
-- [devenv CUDA support](https://github.com/cachix/devenv/pull/422)
 - NixOS
   - [Package request: Zen Browser](https://github.com/NixOS/nixpkgs/issues/327982)
   - [Package request: godots](https://github.com/NixOS/nixpkgs/issues/347828)
@@ -39,10 +38,13 @@
   - [open-webui build failure](https://github.com/NixOS/nixpkgs/issues/349361#issuecomment-2420565136)
 - [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
 - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
-- [biomejs full svelte support](https://biomejs.dev/internals/language-support)
 - [Deno workspace wildcard](https://github.com/denoland/deno/issues/25783)
 - [anytype excalidraw support](https://community.anytype.io/t/excalidraw-plugin/9267)
 - [anytype option to download all files](https://community.anytype.io/t/10593)
+- JS Formatter & Linter
+  - [deno tailwind class sorting](https://github.com/denoland/deno/issues/21617)
+  - [biomejs svelte support](https://github.com/biomejs/biome/discussions/136)
+  - [oxc-based formatter](https://github.com/oxc-project/oxc/issues/5068)
 
 ## Wanna talk?
 
