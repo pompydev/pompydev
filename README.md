@@ -37,6 +37,7 @@
   - [Package request: krunker](https://github.com/NixOS/nixpkgs/issues/359808)
   - [Package request: `breezex-cursor-light`, `breezex-cursor-dark`, and `breezex-cursor-black`](https://github.com/NixOS/nixpkgs/issues/351785)
   - [Mission Center does not show GPU stats on NVIDIA GPU](https://github.com/NixOS/nixpkgs/issues/342274)
+  - [NetworkManager's nm-online kills nixos-rebuild](https://github.com/NixOS/nixpkgs/issues/180175)
 - [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
 - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
 - [anytype excalidraw support](https://community.anytype.io/t/excalidraw-plugin/9267)
