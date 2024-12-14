@@ -43,6 +43,7 @@
 - [anytype excalidraw support](https://community.anytype.io/t/excalidraw-plugin/9267)
 - [anytype option to download all files](https://community.anytype.io/t/10593)
 - [borg: read relative exclude paths from files within backup source](https://github.com/borgbackup/borg/issues/641)
+- [starship: Make it easy to remove "on" and "via" from all modules](https://github.com/starship/starship/issues/6313)
 - JS Formatter & Linter
   - [deno tailwind class sorting](https://github.com/denoland/deno/issues/21617)
   - [biomejs svelte support](https://github.com/biomejs/biome/discussions/136)
