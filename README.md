@@ -49,6 +49,13 @@
   - [biomejs svelte support](https://github.com/biomejs/biome/discussions/136)
   - [oxc-based formatter](https://github.com/oxc-project/oxc/issues/5068)
 
+## Hype train
+
+- [nix](https://github.com/NixOS/nix)
+- [void(0)](https://voidzero.dev/)
+- [biomejs](https://biomejs.dev/)
+- [oxc](https://github.com/oxc-project/oxc)
+
 ## Wanna talk?
 
 [![discord server invite](https://invidget.switchblade.xyz/aQqamSCUcS)](https://discord.com/invite/aQqamSCUcS)
