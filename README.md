@@ -41,6 +41,8 @@
 - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
 - [anytype excalidraw support](https://community.anytype.io/t/excalidraw-plugin/9267)
 - [anytype option to download all files](https://community.anytype.io/t/10593)
+- [Godot C# wasm support](https://github.com/godotengine/godot/issues/70796)
+- [Drizzle Deno Sqlite support](https://github.com/drizzle-team/drizzle-orm/discussions/2440#discussioncomment-11025081)
 - nextjs vite adoption
 - [borg: read relative exclude paths from files within backup source](https://github.com/borgbackup/borg/issues/641)
 - [starship: Make it easy to remove "on" and "via" from all modules](https://github.com/starship/starship/issues/6313)
