@@ -54,6 +54,7 @@
 ## Hype train
 
 - [nix](https://github.com/NixOS/nix)
+- [deno](https://deno.com/)
 - [void(0)](https://voidzero.dev/)
 - [biomejs](https://biomejs.dev/)
 - [oxc](https://github.com/oxc-project/oxc)
