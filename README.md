@@ -35,6 +35,7 @@
   - [Package request: Zen Browser](https://github.com/NixOS/nixpkgs/issues/327982)
   - [Package request: godots](https://github.com/NixOS/nixpkgs/issues/347828)
   - [Package request: krunker](https://github.com/NixOS/nixpkgs/issues/359808)
+  - [Package Safing's Portmaster](https://github.com/NixOS/nixpkgs/issues/174194)
   - [Package request: `breezex-cursor-light`, `breezex-cursor-dark`, and `breezex-cursor-black`](https://github.com/NixOS/nixpkgs/issues/351785)
   - [Mission Center does not show GPU stats on NVIDIA GPU](https://github.com/NixOS/nixpkgs/issues/342274)
   - [NetworkManager's nm-online kills nixos-rebuild](https://github.com/NixOS/nixpkgs/issues/180175)
