@@ -31,6 +31,7 @@
 
 - [devenv](https://github.com/cachix/devenv) 5k GitHub stars, making it eligible for [simple-icons](https://github.com/simple-icons/simple-icons) submission
 - NixOS
+  - [Package request: ghostty](https://github.com/NixOS/nixpkgs/issues/368414)
   - [Package request: Zen Browser](https://github.com/NixOS/nixpkgs/issues/327982)
   - [Package request: godots](https://github.com/NixOS/nixpkgs/issues/347828)
   - [Package request: krunker](https://github.com/NixOS/nixpkgs/issues/359808)
