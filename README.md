@@ -31,7 +31,6 @@
 
 - [devenv](https://github.com/cachix/devenv) 5k GitHub stars, making it eligible for [simple-icons](https://github.com/simple-icons/simple-icons) submission
 - NixOS
-  - [Package request: ghostty](https://github.com/NixOS/nixpkgs/issues/368414)
   - [Package request: Zen Browser](https://github.com/NixOS/nixpkgs/issues/327982)
   - [Package request: godots](https://github.com/NixOS/nixpkgs/issues/347828)
   - [Package request: krunker](https://github.com/NixOS/nixpkgs/issues/359808)
@@ -39,18 +38,19 @@
   - [Package request: `breezex-cursor-light`, `breezex-cursor-dark`, and `breezex-cursor-black`](https://github.com/NixOS/nixpkgs/issues/351785)
   - [Mission Center does not show GPU stats on NVIDIA GPU](https://github.com/NixOS/nixpkgs/issues/342274)
   - [NetworkManager's nm-online kills nixos-rebuild](https://github.com/NixOS/nixpkgs/issues/180175)
+- AnyType
+  - [Whiteboards / canvas](https://community.anytype.io/t/1389)
+  - [Add in-line formulas / calculations](https://community.anytype.io/t/1709)
+  - [Protecting objects with PIN/Password/Biometrics](https://community.anytype.io/t/5101)
+  - [Add option to download all files](https://community.anytype.io/t/10593)
 - [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
 - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
-- [anytype excalidraw support](https://community.anytype.io/t/excalidraw-plugin/9267)
-- [anytype option to download all files](https://community.anytype.io/t/10593)
 - [Godot C# wasm support](https://github.com/godotengine/godot/issues/70796)
-- [Drizzle Deno Sqlite support](https://github.com/drizzle-team/drizzle-orm/discussions/2440#discussioncomment-11025081)
 - nextjs vite adoption
 - [borg: read relative exclude paths from files within backup source](https://github.com/borgbackup/borg/issues/641)
 - [starship: Make it easy to remove "on" and "via" from all modules](https://github.com/starship/starship/issues/6313)
 - JS Formatter & Linter
   - [deno tailwind class sorting](https://github.com/denoland/deno/issues/21617)
-  - [biomejs svelte support](https://github.com/biomejs/biome/discussions/136)
   - [oxc-based formatter](https://github.com/oxc-project/oxc/issues/5068)
 
 ## Hype train
@@ -60,7 +60,6 @@
 - [Ladybird](https://ladybird.org/)
 - [deno](https://deno.com/)
 - [void(0)](https://voidzero.dev/)
-- [biomejs](https://biomejs.dev/)
 - [oxc](https://github.com/oxc-project/oxc)
 
 ## Wanna talk?
