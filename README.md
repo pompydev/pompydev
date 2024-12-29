@@ -56,6 +56,8 @@
 ## Hype train
 
 - [nix](https://github.com/NixOS/nix)
+- [AnyType](https://anytype.io/)
+- [Ladybird](https://ladybird.org/)
 - [deno](https://deno.com/)
 - [void(0)](https://voidzero.dev/)
 - [biomejs](https://biomejs.dev/)
