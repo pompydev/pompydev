@@ -47,6 +47,7 @@
 - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
 - [Godot C# wasm support](https://github.com/godotengine/godot/issues/70796)
 - nextjs vite adoption
+- [Coolify NixOS support](https://github.com/coollabsio/coolify/issues/1578)
 - [borg: read relative exclude paths from files within backup source](https://github.com/borgbackup/borg/issues/641)
 - [starship: Make it easy to remove "on" and "via" from all modules](https://github.com/starship/starship/issues/6313)
 - JS Formatter & Linter
