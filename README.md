@@ -61,7 +61,6 @@
 - [AnyType](https://anytype.io/)
 - [Ladybird](https://ladybird.org/)
 - [deno](https://deno.com/)
-- [void(0)](https://voidzero.dev/)
 - [oxc](https://github.com/oxc-project/oxc)
 
 ## Wanna talk?
