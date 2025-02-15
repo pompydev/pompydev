@@ -31,7 +31,6 @@
 
 - [devenv](https://github.com/cachix/devenv) 5k GitHub stars, making it eligible for [simple-icons](https://github.com/simple-icons/simple-icons) submission
 - NixOS
-  - [Package request: Zen Browser](https://github.com/NixOS/nixpkgs/issues/327982)
   - [Package request: godots](https://github.com/NixOS/nixpkgs/issues/347828)
   - [Package request: krunker](https://github.com/NixOS/nixpkgs/issues/359808)
   - [Package Safing's Portmaster](https://github.com/NixOS/nixpkgs/issues/174194)
@@ -43,6 +42,8 @@
   - [Add in-line formulas / calculations](https://community.anytype.io/t/1709)
   - [Protecting objects with PIN/Password/Biometrics](https://community.anytype.io/t/5101)
   - [Add option to download all files](https://community.anytype.io/t/10593)
+- Tailwind CSS
+  - [Attributify](https://github.com/tailwindlabs/tailwindcss/discussions/5536)
 - [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
 - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
 - [Godot C# wasm support](https://github.com/godotengine/godot/issues/70796)
