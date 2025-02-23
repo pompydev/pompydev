@@ -50,6 +50,7 @@
 - [Velog RSS encoding error](https://github.com/velopert/velog-client/issues/430)
 - [Coolify NixOS support](https://github.com/coollabsio/coolify/issues/1578)
 - [Remix Image Component](https://github.com/remix-run/remix/discussions/2905)
+- [Immich Multiselection save/download](https://github.com/immich-app/immich/discussions/5068)
 - [borg: read relative exclude paths from files within backup source](https://github.com/borgbackup/borg/issues/641)
 - [starship: Make it easy to remove "on" and "via" from all modules](https://github.com/starship/starship/issues/6313)
 - JS Formatter & Linter
