@@ -63,6 +63,9 @@
 - [Ladybird](https://ladybird.org/)
 - [deno](https://deno.com/)
 - [oxc](https://github.com/oxc-project/oxc)
+- [Remix (react router)](https://remix.run/)
+- [TanStack](https://tanstack.com/)
+- [Vue.js](https://vuejs.org/)
 
 ## Wanna talk?
 
