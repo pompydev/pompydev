@@ -75,6 +75,7 @@
   - [Benjamin Keep, PhD, JD](https://www.youtube.com/channel/UChY0i0rm9FSA5_M6pADke1w)
   - [FloatHeadPhysics](https://www.youtube.com/channel/UCGfFUc6eWxfbtjYeun6r9xg)
   - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+  - [DIY Perks](https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw)
 - giant brain
   - [Ali the Dazzling](https://www.youtube.com/channel/UCDIsS8A3zOrYg9EfJYiVhlA)
   - [Artem Kirsanov](https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw)
