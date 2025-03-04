@@ -14,7 +14,7 @@
    A: "I am serving in military until April 2025"
 
 // Q: Are you a Linux & OSS enthusiast?
-   A: "Yes (NixOS gang. Check my dotfiles: https://github.com/developomp/.dotfiles)"
+   A: "Yes (NixOS gang. Check my dotfiles: https://github.com/pompydev/.dotfiles)"
 
 // Q: What is your favorite quote?
    A: `An idiot admires complexity, a genius admires simplicity...
