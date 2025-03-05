@@ -1,5 +1,7 @@
 <p align="center"><a href="https://github.com/kyechan99/capsule-render"><img alt="👋 Hello, I am pomp!" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&customColorList=2,4,6,12,19,21,23,24,30&text=👋%20Hello,%20I%20am%20pomp!&fontSize=46&fontAlignY=35" /></a></p>
 
+<div style="text-align: right; transform: translateY(-32px);">- previously known as <a href="https://github.com/developomp">@developomp</a></div>
+
 ## Trivia
 
 <!-- prettier-ignore -->
