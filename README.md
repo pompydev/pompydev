@@ -69,6 +69,7 @@ previously known as [@developomp](https://github.com/developomp)
 - [Remix (react router)](https://remix.run/)
 - [TanStack](https://tanstack.com/)
 - [Vue.js](https://vuejs.org/)
+- [Typescript 7](https://github.com/microsoft/TypeScript-go)
 
 ## pomp's awesome list of big brain content creators
 
