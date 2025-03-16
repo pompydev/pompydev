@@ -61,15 +61,16 @@ previously known as [@developomp](https://github.com/developomp)
 
 ## Hype train
 
-- [nix](https://github.com/NixOS/nix)
-- [AnyType](https://anytype.io/)
-- [Ladybird](https://ladybird.org/)
-- [deno](https://deno.com/)
-- [oxc](https://github.com/oxc-project/oxc)
-- [Remix (react router)](https://remix.run/)
-- [TanStack](https://tanstack.com/)
-- [Vue.js](https://vuejs.org/)
-- [Typescript 7](https://github.com/microsoft/TypeScript-go)
+🚅 /
+[nix](https://github.com/NixOS/nix) /
+[AnyType](https://anytype.io/) /
+[Ladybird](https://ladybird.org/) /
+[deno](https://deno.com/) /
+[oxc](https://github.com/oxc-project/oxc) /
+[Remix (react router)](https://remix.run/) /
+[TanStack](https://tanstack.com/) /
+[Vue.js](https://vuejs.org/) /
+[Typescript 7](https://github.com/microsoft/TypeScript-go) /
 
 ## pomp's awesome list of big brain content creators
 
