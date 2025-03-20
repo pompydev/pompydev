@@ -45,6 +45,7 @@ previously known as [@developomp](https://github.com/developomp)
   - [Add option to download all files](https://community.anytype.io/t/10593)
 - Tailwind CSS
   - [Attributify](https://github.com/tailwindlabs/tailwindcss/discussions/5536)
+  - [Create `text-decoration-skip-ink` utility classes](https://github.com/tailwindlabs/tailwindcss/discussions/12503)
 - [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
 - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
 - [Godot C# wasm support](https://github.com/godotengine/godot/issues/70796)
