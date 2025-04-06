@@ -74,24 +74,6 @@ previously known as [@developomp](https://github.com/developomp)
 [Vue.js](https://vuejs.org/) /
 [Typescript 7](https://github.com/microsoft/TypeScript-go) /
 
-## pomp's awesome list of big brain content creators
-
-- omega brain
-  - [Not David](https://www.youtube.com/channel/UCQeDjGVRTWAApRmP_xFWaRA)
-  - [Benjamin Keep, PhD, JD](https://www.youtube.com/channel/UChY0i0rm9FSA5_M6pADke1w)
-  - [FloatHeadPhysics](https://www.youtube.com/channel/UCGfFUc6eWxfbtjYeun6r9xg)
-  - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-  - [DIY Perks](https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw)
-  - [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
-- giant brain
-  - [Ali the Dazzling](https://www.youtube.com/channel/UCDIsS8A3zOrYg9EfJYiVhlA)
-  - [Artem Kirsanov](https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw)
-  - [Dave's Garage](https://www.youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw)
-  - [ThePrimeagen](https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ)
-  - [NeetCode](https://www.youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g)
-- big brain
-  - [Theo - t3․gg](https://www.youtube.com/channel/UCbRP3c757lWg9M-U7TyEkXA)
-
 ## Wanna talk?
 
 [![discord server invite](https://invidget.switchblade.xyz/aQqamSCUcS)](https://discord.com/invite/aQqamSCUcS)
