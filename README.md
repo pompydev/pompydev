@@ -7,21 +7,18 @@ previously known as [@developomp](https://github.com/developomp)
 <!-- prettier-ignore -->
 ```js
 // Q: What's your ethnicity?
-   A: "I am Korean!"
+   A: "I am Korean."
 
 // Q: Where do you live?
-   A: "I live in Seoul, South Korea :D"
+   A: "I live in Seoul, South Korea."
 
 // Q: What are you doing right now?
-   A: "I am serving in military until April 2025"
+   A: "I am studying Computer Science in Hongik University."
 
 // Q: Are you a Linux & OSS enthusiast?
-   A: "Yes (NixOS gang. Check my dotfiles: https://github.com/pompydev/.dotfiles)"
+   A: "Very much."
 
-// Q: What is your favorite quote?
-   A: `An idiot admires complexity, a genius admires simplicity...
-                                                  ― Terry A. Davis`
-// Q: Is this even a valid JS syntax?
+// Q: Is this a valid JavaScript syntax?
    A: "Yes."
 ```
 
