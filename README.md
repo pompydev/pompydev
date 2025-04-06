@@ -28,12 +28,12 @@ previously known as [@developomp](https://github.com/developomp)
 
 ## Waiting room
 
-- [devenv](https://github.com/cachix/devenv) 5k GitHub stars, making it eligible for [simple-icons](https://github.com/simple-icons/simple-icons) submission
 - NixOS
   - [Package request: godots](https://github.com/NixOS/nixpkgs/issues/347828)
   - [Package Safing's Portmaster](https://github.com/NixOS/nixpkgs/issues/174194)
   - [Package request: `breezex-cursor-light`, `breezex-cursor-dark`, and `breezex-cursor-black`](https://github.com/NixOS/nixpkgs/issues/351785)
   - [Package request: Graphite](https://github.com/NixOS/nixpkgs/issues/346762)
+  - [Package request: code-void](https://github.com/NixOS/nixpkgs/issues/349033)
   - [Mission Center does not show GPU stats on NVIDIA GPU](https://github.com/NixOS/nixpkgs/issues/342274)
   - [NetworkManager's nm-online kills nixos-rebuild](https://github.com/NixOS/nixpkgs/issues/180175)
 - AnyType
@@ -44,10 +44,11 @@ previously known as [@developomp](https://github.com/developomp)
 - Tailwind CSS
   - [Attributify](https://github.com/tailwindlabs/tailwindcss/discussions/5536)
   - [Create `text-decoration-skip-ink` utility classes](https://github.com/tailwindlabs/tailwindcss/discussions/12503)
+- [simple-icons Request: devenv](https://github.com/simple-icons/simple-icons/issues/13025)
 - [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
 - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
 - [Godot C# wasm support](https://github.com/godotengine/godot/issues/70796)
-- nextjs vite adoption
+- nextjs vite adoption (please)
 - [Velog RSS encoding error](https://github.com/velopert/velog-client/issues/430)
 - [Coolify NixOS support](https://github.com/coollabsio/coolify/issues/1578)
 - [Remix Image Component](https://github.com/remix-run/remix/discussions/2905)
