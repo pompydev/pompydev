@@ -44,6 +44,7 @@ previously known as [@developomp](https://github.com/developomp)
 - Tailwind CSS
   - [Attributify](https://github.com/tailwindlabs/tailwindcss/discussions/5536)
   - [Create `text-decoration-skip-ink` utility classes](https://github.com/tailwindlabs/tailwindcss/discussions/12503)
+- [OnlyOffice Font detection](https://github.com/ONLYOFFICE/DocumentServer/issues/1859)
 - [simple-icons Request: devenv](https://github.com/simple-icons/simple-icons/issues/13025)
 - [Linux Nvidia driver JIT frame scheduling](https://github.com/NVIDIA/open-gpu-kernel-modules/discussions/620)
 - [Github contributors-only issue creation](https://github.com/dear-github/dear-github/issues/293)
